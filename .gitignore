@@ -1,0 +1,26 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts
+*.log
+*.tmp
+*.bak
+*.swp
+*.aux
+*.out
+*.toc
+*.class
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+
+# Node modules (if any)
+node_modules/
+
+# Python cache files (if applicable)
+_pycache_/
+*.pyc
